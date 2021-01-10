@@ -7,3 +7,4 @@ for i in range (n-2):
     print (c, end= ' ')
     x=y
     y=x
+    hello
