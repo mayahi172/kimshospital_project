@@ -7,3 +7,9 @@ for i in range (n-2):
     print (c, end= ' ')
     x=y
     y=x
+if they change program amount >=100 
+display eligible loan
+else
+display
+"not eligible"
+ 
